@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lunenburgmakery.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lunenburgmakery.ca/collections/made-in-lunenburg.atom"/>
+  <title>The Lunenburg Makery</title>
+  <updated>2021-04-07T15:00:36-03:00</updated>
+  <author>
+    <name>The Lunenburg Makery</name>
+  </author>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/6562679619632</id>
+    <published>2021-04-07T15:00:36-03:00</published>
+    <updated>2021-04-07T15:00:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/flat-felting-camp-kit"/>
+    <title>Felting Camp Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/colourwithwool.png?v=1617818795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Colour with Wool!</b><br data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><br data-mce-fragment="1"><br data-mce-fragment="1">Craft time (approx.) : 1-2 hours<br data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">KIT INCLUDES :<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Step-by-step instructions</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Patterns</span></li>
+<li data-mce-fragment="1">Wool in assorted colours</li>
+<li data-mce-fragment="1">Blended wool felt sheet</li>
+<li data-mce-fragment="1">Felting needles</li>
+<li data-mce-fragment="1">Foam support</li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">$5.00/camper</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Minimum order of 10 kits</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/6562679619632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/9003042054</id>
+    <published>2021-02-26T14:35:23-04:00</published>
+    <updated>2021-02-26T14:35:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/special-family-size-bulk-needle-felting-supply-boxed-kit"/>
+    <title>Special Family Size Bulk Needle Felting Boxed Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Felting.Bulk.Kit.03.FACE.jpg?v=1480103728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Regular retail value of $60!</strong></p>
+<p>You love needle felting. We love needle felting. We all want as many people to enjoy this awesome craft as possible, which is why we've put together this very special supply kit. This kit is packed full of all the materials and instructions you need to design your own custom-coloured birds and/or whatever you'd like!</p>
+<p><strong>Included:</strong> Printed instructions to make a small standing sparrow, six felting needles, one foam block, 60g of white and/or grey fill wool, nine bundles of assorted colours of wool (30g each), three pieces of wire (for legs), three pipe cleaners (for body and beak), six black beads (for eyes), needle and thread (for sewing eyes).</p>
+<p>This makes an incredible gift for the amateur crafter in your life, as well as being perfect for a family to come together and make.</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/9003042054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/4744675360816</id>
+    <published>2021-01-19T11:44:41-04:00</published>
+    <updated>2021-01-19T11:44:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/wholesale-100-ways-of-being-in-a-small-community"/>
+    <title>WHOLESALE - 100 Ways of Being in a Small Community</title>
+    <s:type>In store product</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>In store product<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4744675360816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/4719788326960</id>
+    <published>2020-12-01T10:43:02-04:00</published>
+    <updated>2020-12-01T10:43:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/needle-felting-starter-kit-snow-buddy"/>
+    <title>Snow Buddy Needle Felting Starter Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/DSC_0441.jpg?v=1606833547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">This Snow Buddy won't melt away when the sun comes out!<br><br>A fun first project to try your hand at needle felting or a great winter craft for an experienced needle felter!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">We've included the following materials in this kit to make one Snow Buddy:</span></p>
+<ul>
+<li><span data-mce-fragment="1">Step-by-step illustrated tutorials and instructions</span></li>
+<li><span data-mce-fragment="1">100% natural sheep's wool roving</span></li>
+<li><span data-mce-fragment="1">Felting needles</span></li>
+<li><span data-mce-fragment="1">Felting support</span></li>
+<li><span data-mce-fragment="1">Beads</span></li>
+<li><span data-mce-fragment="1">Needle and thread</span></li>
+<li><span data-mce-fragment="1">Assorted wool felt for scarf, hat, or other accessories</span></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">**Twigs (for arms) not included.**</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Be sure to check out the rest of the kits in our collection!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4719788326960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+    <published>2020-05-04T13:54:44-03:00</published>
+    <updated>2020-05-04T13:54:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/itty-bitty-fox-d-i-y-felt-hand-sewing-kit"/>
+    <title>Itty Bitty Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/DSC_0360.jpg?v=1588614147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</p>
+<p>Small enough to fit in the palm of your hand, these kits are perfect for beginner sewers. Simply hot glue (or sew) a safety pin to the back for a crafty brooch to add to your tote bag or pop them in your pocket to tag along! </p>
+<p>Choose from a fox, an owl, or a rocket ship in various colours (each kit colour is selected at random). </p>
+<p><span>The kit comes complete with stitch tutorials, 100% wool felt, paper pattern templates, cotton embroidery floss, and sewing needle. Rocket ship &amp; owl kits include natural sheep's wool stuffing.</span></p>
+<p><strong>* Buy 2 Itty Bitty kits, get 1 free !</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:tag>Shop</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+      <title>Fox</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+      <title>Owl</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+      <title>Rocket</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/4530198446128</id>
+    <published>2020-05-04T10:25:51-03:00</published>
+    <updated>2020-05-04T10:25:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/camp-badges-d-i-y-felt-hand-sewing-kit"/>
+    <title>Camp Badges Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/CopyofBadge.SAMPLES.sm.png?v=1588610593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a fun camp activity?</p>
+<p>Our Camp Badge Kits come with s<span>tep-by-step illustrated instructions as well as 2 pages of patterns to give you lots of choice (not to mention a blank badge to draw and create your own custom design)! Along with your needle, we've included enough embroidery thread and blended wool felt to make 3 custom camp badges.<br><br>Go a step further and sew your camp badges onto camp clothing, bags, or banners!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:tag>Shop</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4530198446128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/3819686264880</id>
+    <published>2019-07-16T15:53:17-03:00</published>
+    <updated>2019-07-16T15:53:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/pre-order-full-moon-flat-felting-kit"/>
+    <title>NEW - Full Moon Flat Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/FeltedMoon_Kit_01sq.jpg?v=1563304905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong></strong>Inspired by Van Morrison's "Moondance" (one of my all-time favourite songs) this felted interpretation of Earth's best-known satellite is as easy to make as it is satisfying. There is absolutely <em>zero</em> experience necessary to create a unique hanging piece and each finished moon can look quite distinct from one another while still being successful.</p>
+<meta charset="utf-8">
+<p>Many would describe flat felting as even easier than 3D work, and there's less opportunities to poke your fingers (bonus)!</p>
+<p>All the required materials come packaged in a sturdy kraft mailer and include everything you need to complete this hanging project, including black felt, 6 inch wooden hoop, assorted wool, three felting needles, a sewing needle, and embroidery floss. The only other items you need are a sponge/foam block to work on and scissors and glue gun (optional) for finishing. Printed instructions outline the basic felting and stitching procedures, as well as specific steps, and there's even a reference image included.</p>
+<p>Shipping this kit has never been easier as it's thin enough to send letter mail! That means postage is only $3.95 to send within Canada and $5.95 to the US.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/3819686264880</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>224</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/743718944859</id>
+    <published>2018-04-05T15:10:16-03:00</published>
+    <updated>2018-04-05T15:10:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/bird-lover-deluxe-box-needle-felting-diy-kit"/>
+    <title>Bird Lover Deluxe Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/LABEL_BirdLoverContents_05.jpg?v=1522952867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bird kits are the most popular that we produce and we know that once you make one your brain is filled with ideas for another! <br></p>
+<p>This is our largest kit ever and it contains everything you need to learn how to make a Blue Jay and then continue felting at least two more birds of your choosing. We've included the following:</p>
+<ul>
+<li>Step-by-step illustrated instructions for a Blue Jay, plus illustrations of a few other popular perching birds</li>
+<li>Ruler and foot pattern</li>
+<li>100% natural sheep's wool roving</li>
+<ul>
+<li>60g natural</li>
+<li>3 x 20g neutrals* or 3 x 20g brights*</li>
+</ul>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Wire and pipe cleaner for three birds</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+</ul>
+<p>Although this kit is structured as a "Bird Lover" kit, it can easily act as a general family-sized pack where you can use the supplies to make whatever you want!<br></p>
+<p><span></span>*C<em>olours may not be exactly as shown in photo.</em></p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/743718944859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>370</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/1405512056880</id>
+    <published>2018-04-05T15:04:32-03:00</published>
+    <updated>2018-04-05T15:04:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/new-blue-jay-needle-felting-diy-kit"/>
+    <title>Blue Jay Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Label_BlueJay_01_9b26c09d-29aa-4c8e-a8ce-6565b688de18.jpg?v=1537371386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This boxed kit contains everything you need to learn how to make a sweet little Blue Jay of your own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler and foot pattern</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread (for eyes)</li>
+<li>Wire (for legs)</li>
+</ul>
+<p><span></span>Finished size: approx. 14cm (5.5")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/1405512056880</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/779827511387</id>
+    <published>2018-04-05T15:04:32-03:00</published>
+    <updated>2018-04-05T15:04:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/atlantic-puffin-needle-felting-diy-kit"/>
+    <title>Atlantic Puffin Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/LABEL.Felted.Puffin.jpg?v=1531157549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This boxed kit contains everything you need to learn how to make an Atlantic Puffin of your own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler and foot pattern</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread (for eyes)</li>
+<li>Wire (for legs)</li>
+</ul>
+<p><span></span>** This kit is rated at a Level 3, making it our first "advanced" kit. We've rated it like that as there are simply a few techniques around structuring the feet and beak that brand new felters may find a bit daunting.</p>
+<p>Finished size: approx. 14cm (5.5")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/779827511387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/743713996891</id>
+    <published>2018-04-05T15:04:32-03:00</published>
+    <updated>2018-04-05T15:04:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/snowy-owl-needle-felting-diy-kit"/>
+    <title>Snowy Owl Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/FeltedSnowyOwl2018_04sqSM.jpg?v=1522951713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxed kit contains everything you need to learn how to make a Snowy Owl of your own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler and foot pattern</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+<li>Wire</li>
+</ul>
+<p><span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this Snowy Owl will be a delight to make!</p>
+<p>Finished size: approx. 9cm (4")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/743713996891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/743712063579</id>
+    <published>2018-04-05T14:56:32-03:00</published>
+    <updated>2018-04-05T14:56:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/polar-bear-cub-needle-felting-diy-kit"/>
+    <title>Polar Bear Cub Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/LABEL_FeltedPolarBear2018_01b.jpg?v=1522951257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__desc rte" itemprop="description">
+<p>Our boxed kit contains everything you need to learn how to make a Polar Bear cub of your own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler and foot pattern</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+</ul>
+<p><span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this polar bear cub will be a delight to make!</p>
+<p>Finished size: approx. 9cm (3.5")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/743712063579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/153411649565</id>
+    <published>2016-09-15T16:06:00-03:00</published>
+    <updated>2016-09-15T16:06:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/burrowing-owl-needle-felting-diy-kit"/>
+    <title>Burrowing Owl Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/BurrowingOwl.SQ.jpg?v=1510251119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burrowing Owls visit the Canadian Prairies in the summer months and migrate to Mexico and the Southern United States in the winter. They make their nests in burrows, in the ground in open fields, and grasslands. Burrowing Owls are endangered in Canada and land owners are now encouraged to change agricultural practices to protect the owls and encourage population growth.<br><meta charset="utf-8"></p>
+<p>Our boxed kit contains everything you need to learn how to make a Burrowing Owl of your own. We've included the following in this kit:<br><span></span></p>
+<ul>
+<li><span>Step-by-step illustrated instructions</span></li>
+<li><span>Ruler and foot pattern</span></li>
+<li><span>100% natural sheep's wool roving</span></li>
+<li><span>Felting needles</span></li>
+<li><span>Felting support</span></li>
+<li><span>Pre-cut wire</span></li>
+</ul>
+<p><span><span></span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this owl will be a delight to make!</p>
+<p>Finished size: approx. 10cm (5")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/153411649565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/9665346950</id>
+    <published>2016-09-15T16:06:00-03:00</published>
+    <updated>2016-09-15T16:06:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/hanging-sloth-needle-felting-diy-kit"/>
+    <title>Hanging Sloth Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Felt.Sloth.LABEL.jpg?v=1510251354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oh, the humble and lovable sleepy sloth. Do we really need to explain why we made a kit of this creature? I didn't think so.<br><meta charset="utf-8"></p>
+<p>Our boxed kit contains everything you need to learn how to make a needle felted sloth of your own.  We've included the following in this kit:<br><span></span></p>
+<ul>
+<li><span>Step-by-step illustrated instructions</span></li>
+<li><span>Ruler pattern guide</span></li>
+<li><span>100% natural sheep's wool roving</span></li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+<li>Wire and pipe cleaner</li>
+</ul>
+<p><span><span></span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this sleepy sloth will be a delight to make!</p>
+<p>Finished size: approx. 17cm (6.5")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/9665346950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/9665328134</id>
+    <published>2016-09-15T16:06:00-03:00</published>
+    <updated>2016-09-15T16:06:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/shropshire-sheep-needle-felting-diy-kit"/>
+    <title>Shropshire Sheep Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/LABEL.Shropshire.Sheep.jpg?v=1510251392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Shropshire sheep was brought to Canada from England in the early 1800's and for a time was the most popular breed in the country.</p>
+<p>Our boxed kit contains everything you need to learn how to make a needle felted Shropshire sheep of your very own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler pattern guide</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+</ul>
+<p><span><span></span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this woolly breed of sheep will be a delight to make!</p>
+<p>Finished size: approx. 13cm (5")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/9665328134</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/9665297158</id>
+    <published>2016-09-15T16:06:00-03:00</published>
+    <updated>2016-09-15T16:06:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/newfoundland-pine-marten-needle-felting-diy-kit"/>
+    <title>Newfoundland Pine Marten Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Marten.LABEL_c45dbd34-9ecb-4e94-82b7-81bb4ad89449.jpg?v=1510251269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Did you know that this furry little creature is one of only 14 species native to Newfoundland and it's also on the Endangered Species list?</p>
+<p>Our boxed kit contains everything you need to learn how to make a needle felted Pine Marten of your own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler pattern guide</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+</ul>
+<p><span><span></span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this darling marten will be a delight to make!</p>
+<p>Finished size: approx. 15cm (6")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/9665297158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/9665271046</id>
+    <published>2016-09-15T16:06:00-03:00</published>
+    <updated>2016-09-15T16:06:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/dachshund-dog-needle-felting-diy-kit"/>
+    <title>Dachshund Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Dachshund.LABEL.jpg?v=1510251231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxed kit contains everything you need to learn how to make a needle felted Dachshund (or two) of your own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler pattern guide</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+</ul>
+<p><span><span></span></span><span><span></span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this sweet little pooch will be a delight to make!</p>
+<p>Finished size: approx. 10cm (4")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/9665271046</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/8577853318</id>
+    <published>2016-09-15T16:06:00-03:00</published>
+    <updated>2016-09-15T16:06:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/piping-plover-needle-felting-diy-kit"/>
+    <title>Piping Plover Needle Felting Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Felt.Plover.LABEL_a2edac96-5a57-46c3-8245-58ce0ee2c24d.jpg?v=1510251163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This little shore bird has the distinction of being the first of our needle felting kits themed around endangered species of Canada. Piping Plovers come to select beaches in Nova Scotia to breed starting in mid-April and lay their eggs in shallow "nests" among the small stones. They blend in perfectly with their surroundings to protect themselves from predators. Unfortunately this makes them extremely vulnerable to dogs and human feet who accidentally crush them. We can easily lessen this impact by taking our beach walks closer to the waterline in nesting areas.</p>
+<p>Our boxed kit contains everything you need to learn how to make a Piping Plover of your own. We've included the following in this kit:</p>
+<ul>
+<li>Step-by-step illustrated instructions</li>
+<li>Ruler and foot pattern</li>
+<li>100% natural sheep's wool roving</li>
+<li>Felting needles</li>
+<li>Felting support</li>
+<li>Pre-cut wire</li>
+<li>Pipe cleaner</li>
+<li>Beads</li>
+<li>Needle and thread</li>
+</ul>
+<p><span><span></span></span>Whether you're an absolute (but confident) beginner or someone who has a few felting projects under their belt, this Plover will be a delight to make!</p>
+<p>Finished size: approx. 10cm x 12cm (4" x 5")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/8577853318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/8569224902</id>
+    <published>2016-09-14T15:57:00-03:00</published>
+    <updated>2016-09-14T15:57:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/wool-felt-red-lobster-finger-puppet-kit"/>
+    <title>Red Lobster Finger Puppet Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Lobster.sq.jpg?v=1510252125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</span></p>
+<p>You've just caught yourself the perfect Nova Scotian lobster - no rubber bands required!<br><br>Both kids AND adults have fallen in love with our adorable little lobster who would rather give high fives than pinches. It's an ideal project for new crafters with young ones most likely needing adult assistance.<br><br>This sewing craft kit was proudly designed and packaged in our shop in Lunenburg, Nova Scotia and was created in co-operation with the Fisheries Museum of the Atlantic. We've included the following in this kit:<br><br>• Step-by-step illustrated instructions<br>• Paper pattern pieces<br>• 100% wool felt<br>• Natural sheep's wool stuffing<br>• Needle and red embroidery thread</p>
+<p>Finished size: approx. 20cm long (8")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/8569224902</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/2878214915</id>
+    <published>2015-09-30T14:51:00-03:00</published>
+    <updated>2015-09-30T14:51:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/flock-br-quilt-pieced-envelope-back-pillow-cover-pattern"/>
+    <title>Flock&lt;br&gt;Quilt-Pieced Envelope Back Pillow Cover Pattern</title>
+    <s:type>In store product</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Flock.Pillow.SHOPIFY-SQ.jpg?v=1511363350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>In store product<br>
+        <strong>Price: </strong>
+            5.00 - 7.00
+            <a href="https://www.lunenburgmakery.ca/products/flock-br-quilt-pieced-envelope-back-pillow-cover-pattern">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LEVEL:</strong> Intermediate</p>
+<p>This intermediate quilt pattern utilizes a clever no-waste flying geese piecing technique that makes this project a fun and satisfying sew. Whip your new quilt block into a 14" pillow cover featuring a simple envelope back closure to add to your home.</p>
+<p>See the other patterns in the collection - <a href="http://www.lunenburgmakery.ca/products/zig-zag-br-quilt-pieced-envelope-back-pillow-cover-pattern" target="_blank" title="Zig Zag quilt pattern Lunenburg Makery" rel="noopener noreferrer">Zig Zag</a> and <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg/products/kisses-br-quilt-pieced-envelope-back-pillow-cover-pattern" target="_blank" title="Kisses Quilt Pattern Lunenburg Makery" rel="noopener noreferrer">Kisses</a>.</p>
+<p>B&amp;W 12-page booklet with full colour covers comes in a clear sleeve complete with detailed written instructions and supporting diagrams <strong>OR</strong> select PDF Pattern in the format options for an instant downloaded pdf version. </p>
+<p><strong>Fabric requirements:</strong> 4 fat quarters (three for quilt block, one for backing).</p>
+<p>Check out our selection of Cotton &amp; Steel fabrics <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg/cotton-steel-fabric" target="_blank" title="Cotton &amp; Steel fabric Lunenburg Makery" rel="noopener noreferrer">here</a> to include with your order! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/2878214915</id>
+      <title>Printed Pattern Booklet - $7.00</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/2878214915</id>
+      <title>PDF Pattern - $5.00</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>MAK QPILL FK PDF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/2877253443</id>
+    <published>2015-09-30T14:51:00-03:00</published>
+    <updated>2015-09-30T14:51:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/kisses-br-quilt-pieced-envelope-back-pillow-cover-pattern"/>
+    <title>Kisses&lt;br&gt;Quilt-Pieced Envelope Back Pillow Cover Pattern</title>
+    <s:type>In store product</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Kisses.Pillow.SHOPIFY-SQ.jpg?v=1511363423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>In store product<br>
+        <strong>Price: </strong>
+            5.00 - 7.00
+            <a href="https://www.lunenburgmakery.ca/products/kisses-br-quilt-pieced-envelope-back-pillow-cover-pattern">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LEVEL:</strong> Beginner+</p>
+<p>This pattern is the next step up from our <a href="http://www.lunenburgmakery.ca/products/zig-zag-br-quilt-pieced-envelope-back-pillow-cover-pattern" target="_blank" title="Quilt Pillow Pattern Lunenburg Makery" rel="noopener noreferrer">Zig Zag</a>. It will take you through the steps of completing a block using four different pattern pieces, including half-square triangles. Learn to piece a radiating design with quick and efficient sewing techniques. Whip your new quilt block into a 14" pillow cover featuring a simple envelope back closure to add to your home.</p>
+<p>See the other patterns in the collection - <a href="http://www.lunenburgmakery.ca/products/zig-zag-br-quilt-pieced-envelope-back-pillow-cover-pattern" target="_blank" title="Zig Zag quilt pattern Lunenburg Makery" rel="noopener noreferrer">Zig Zag</a> and <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg/products/flock-br-quilt-pieced-envelope-back-pillow-cover-pattern" target="_blank" title="Flock Quilt Pattern Lunenburg Makery" rel="noopener noreferrer">Flock</a>. </p>
+<p>B&amp;W 12-page booklet with full colour covers comes in a clear sleeve complete with detailed written instructions and supporting diagrams <strong>OR</strong> select PDF Pattern in the format options for an instant downloaded pdf version.</p>
+<p><strong>Fabric requirements:</strong> 3 fat quarters (two for quilt block, one for backing).</p>
+<p>Check out our selection of Cotton &amp; Steel fabrics <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg/cotton-steel-fabric" target="_blank" title="Cotton &amp; Steel fabric Lunenburg Makery" rel="noopener noreferrer">here</a> to include with your order! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/2877253443</id>
+      <title>Printed Pattern Booklet - $7.00</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/2877253443</id>
+      <title>PDF Pattern - $5.00</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>MAK QPILL KS PDF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/2877196035</id>
+    <published>2015-09-30T14:51:00-03:00</published>
+    <updated>2015-09-30T14:51:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/zig-zag-br-quilt-pieced-envelope-back-pillow-cover-pattern"/>
+    <title>Zig Zag&lt;br&gt;Quilt-Pieced Envelope Back Pillow Cover Pattern</title>
+    <s:type>In store product</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/ZigZag.Pillow.SHOPIFY-SQ.jpg?v=1511363468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>In store product<br>
+        <strong>Price: </strong>
+            5.00 - 7.00
+            <a href="https://www.lunenburgmakery.ca/products/zig-zag-br-quilt-pieced-envelope-back-pillow-cover-pattern">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LEVEL:</strong> Beginner</p>
+<p>This beginner pattern provides an introduction to pieced-quilt blocks while learning clever time-saving techniques along the way. Whip your new quilt block into a 14" pillow cover featuring a simple envelope back closure to add to your home.</p>
+<p>See the other patterns in the collection - <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg/products/flock-br-quilt-pieced-envelope-back-pillow-cover-pattern" target="_blank" title="Zig Zag Quilt Pattern Lunenburg Makery">Flock</a> and <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg/products/kisses-br-quilt-pieced-envelope-back-pillow-cover-pattern" target="_blank" title="Kisses Quilt Pattern Lunenburg makery">Kisses</a>.</p>
+<p>B&amp;W 12-page booklet with full colour covers comes in a clear sleeve complete with detailed written instructions and supporting diagrams <strong>OR</strong> select PDF Pattern in the format options for an instant downloaded pdf version.</p>
+<p><strong>Fabric requirements:</strong> 3 fat quarters (two for quilt block, one for backing).</p>
+<p>Check out our selection of Cotton &amp; Steel fabrics <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg/cotton-steel-fabric" target="_blank" title="Cotton &amp; Steel fabric Lunenburg Makery">here</a> to include with your order! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/2877196035</id>
+      <title>Printed Pattern Booklet - $7.00</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/2877196035</id>
+      <title>PDF Pattern - $5.00</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>MAK QPILL ZZ PDF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/7578405574</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/cactus-garden-d-i-y-felt-sewing-kit"/>
+    <title>Cactus Garden Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Wishlist.2016.Makery.CactusGarden.jpg?v=1510251598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</p>
+<p>We designed this Cactus Garden kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs. <br></p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete THREE felt cacti. </span>We've included the following:<br><span><br><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and embroidery thread</span></span></p>
+<p><span><span></span></span><span></span><span>Finished cacti are approx. 5" high and can be arranged together in a dish of your choosing or set up individually. Check out the rest of our individual cactus kits!</span></p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/7578405574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/7578394182</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/moon-cactus-d-i-y-felt-sewing-kit"/>
+    <title>Moon Cactus Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/MoonCactus2016.sq.jpg?v=1510251709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</span></p>
+<p>We designed this cactus kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs!</p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete a wool felt cactus. </span>We've included the following in this kit:<br><span><span><br><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and cotton embroidery floss</span></span></span></p>
+<p>Finished cactus is approx. 5" high and fits inside of a 3" wide pot <em>(clay pot not included)</em>. Be sure to check out the rest of our individual cactus kits and the cactus garden!</p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/7578394182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/7578385734</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/ball-cactus-d-i-y-felt-sewing-kit"/>
+    <title>Ball Cactus Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/BallCactus2016.sq.jpg?v=1510251767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</p>
+<p>We designed this cactus kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs!</p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete a wool felt cactus. </span><span></span>We've included the following in this kit:</p>
+<p><span><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and embroidery thread</span></span></p>
+<p><span>Finished cactus is approx. 5" high and fits on top of a 3" wide pot <em>(clay pot not included)</em>. Be sure to check out the rest of our individual cactus kits and the cactus garden!</span></p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/7578385734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

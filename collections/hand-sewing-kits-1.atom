@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lunenburgmakery.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lunenburgmakery.ca/collections/hand-sewing-kits-1.atom"/>
+  <title>The Lunenburg Makery</title>
+  <updated>2021-04-01T10:29:02-03:00</updated>
+  <author>
+    <name>The Lunenburg Makery</name>
+  </author>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/6557879042096</id>
+    <published>2021-04-01T10:29:02-03:00</published>
+    <updated>2021-04-01T10:29:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/sewing-camp-kit"/>
+    <title>Hand Sewing Camp Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/campbadge.png?v=1617819086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong data-mce-fragment="1">Camp Badges </strong><br data-mce-fragment="1"><br data-mce-fragment="1">
+<p><span style="font-weight: 400;">Our Camp Badge Kits come with step-by-step illustrated instructions as well as 2 pages of patterns to give you lots of choice (not to mention a blank badge to draw and create your own custom designs!). We’ve also included sewing instructions &amp; techniques to learn (or improve) this skill. </span><span style="font-weight: 400;">Go a step further and sew your camp badges onto camp clothing, bags, or banners!</span></p>
+<p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><i data-mce-fragment="1">Recommended for 8yrs+</i><br><br data-mce-fragment="1">Craft time (approx.): 1 hour</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">KIT INCLUDES:<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Step-by-step instructions</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Patterns</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Assorted colours of blended wool felt sheets</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Sewing needle</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Cotton floss</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Safety pin <br data-mce-fragment="1"></span></li>
+</ul>
+<p data-mce-fragment="1"> Cost: $5.00/camper</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Minimum order: 10 kits</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/6557879042096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/4608136446000</id>
+    <published>2020-06-24T13:21:11-03:00</published>
+    <updated>2020-06-24T13:21:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/oh-canada-d-i-y-felt-key-chain-hand-sewing-kit"/>
+    <title>OH CANADA Key Chain Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/fullsizeoutput_820.jpg?v=1593015672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new creation. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</span></p>
+<p>Sew your very own maple leaf key chains! What better way to show off your love for Canada? Or Canadians. Or maple leaves. Or key chains.</p>
+<p>This kit contains everything you will need to make a maple leaf key chain of your own. We have included the following in this kit:</p>
+<ul>
+<li>Stitch tutorials and instructions</li>
+<li>Blended wool felt</li>
+<li>Paper pattern templates</li>
+<li>Cotton embroidery floss</li>
+<li>Sewing needle</li>
+<li>Pins</li>
+</ul>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4608136446000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/4585695281200</id>
+    <published>2020-06-08T09:56:09-03:00</published>
+    <updated>2020-06-08T09:56:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/new-by-the-sea-felt-finger-puppet-hand-sewing-kit"/>
+    <title>By The Sea Finger Puppet Trio Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/fullsizeoutput_819.jpg?v=1591626360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality blended wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.  </p>
+<p>Try your hand at sewing AND needle felting with our By The Sea Kit!<br><br>Just in time for summer adventures, this kit includes sewing patterns, instructions and everything else you need to make your very own lobster, crab, and jellyfish finger puppets. Each of these adorable little guys have finger pockets to help them come alive for endless fun!<br><br>We've also included instructions along with wool roving &amp; felting needles to take this kit to a new level and give your creature barnacles! <br><br><em>At the Lunenburg Makery, we love being a part of such a beautiful coastal community where we have the chance to see lobsters, crabs, and jellyfish in their natural habitat. Which is why we understand how important the work is that Bluenose Coastal Action is undertaking.</em></p>
+<p><em>Bluenose Coastal Action is a charitable organization that addresses environmental concerns within the South Shore region of Nova Scotia. Their goal is to promote the restoration, enhancement, and conservation of our environment.</em></p>
+<p><em>To help support their efforts, <strong>$5 from the purchase of each By The Sea kit will go to Bluenose Coastal Action's Coastal &amp; Marine projects and activities</strong>. These projects are focused on plastic pollution education, research, and prevention initiatives, including microplastic research and single-use plastic reduction program Ocean Friendly Nova Scotia. Learn more about Bluenose Coastal Action's conservation projects here: <a href="https://www.coastalaction.org/coastal--marine.html" id="m_-7195418781831289748LPNoLP208296" data-saferedirecturl="https://www.google.com/url?q=https://www.coastalaction.org/coastal--marine.html&amp;source=gmail&amp;ust=1591706362401000&amp;usg=AFQjCNEKwIgfIH8RGpAty3CkeQ4yXDrkWQ" target="_blank">https://www.<wbr>coastalaction.org/coastal--<wbr>marine.html</wbr></a>.  </em></p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4585695281200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+    <published>2020-05-04T13:54:44-03:00</published>
+    <updated>2020-05-04T13:54:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/itty-bitty-fox-d-i-y-felt-hand-sewing-kit"/>
+    <title>Itty Bitty Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/DSC_0360.jpg?v=1588614147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</p>
+<p>Small enough to fit in the palm of your hand, these kits are perfect for beginner sewers. Simply hot glue (or sew) a safety pin to the back for a crafty brooch to add to your tote bag or pop them in your pocket to tag along! </p>
+<p>Choose from a fox, an owl, or a rocket ship in various colours (each kit colour is selected at random). </p>
+<p><span>The kit comes complete with stitch tutorials, 100% wool felt, paper pattern templates, cotton embroidery floss, and sewing needle. Rocket ship &amp; owl kits include natural sheep's wool stuffing.</span></p>
+<p><strong>* Buy 2 Itty Bitty kits, get 1 free !</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:tag>Shop</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+      <title>Fox</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+      <title>Owl</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/4530345574448</id>
+      <title>Rocket</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/8569224902</id>
+    <published>2016-09-14T15:57:00-03:00</published>
+    <updated>2016-09-14T15:57:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/wool-felt-red-lobster-finger-puppet-kit"/>
+    <title>Red Lobster Finger Puppet Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Lobster.sq.jpg?v=1510252125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</span></p>
+<p>You've just caught yourself the perfect Nova Scotian lobster - no rubber bands required!<br><br>Both kids AND adults have fallen in love with our adorable little lobster who would rather give high fives than pinches. It's an ideal project for new crafters with young ones most likely needing adult assistance.<br><br>This sewing craft kit was proudly designed and packaged in our shop in Lunenburg, Nova Scotia and was created in co-operation with the Fisheries Museum of the Atlantic. We've included the following in this kit:<br><br>• Step-by-step illustrated instructions<br>• Paper pattern pieces<br>• 100% wool felt<br>• Natural sheep's wool stuffing<br>• Needle and red embroidery thread</p>
+<p>Finished size: approx. 20cm long (8")</p>
+<p>Be sure to check out the rest of the kits in our collection!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/8569224902</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/7578405574</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/cactus-garden-d-i-y-felt-sewing-kit"/>
+    <title>Cactus Garden Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Wishlist.2016.Makery.CactusGarden.jpg?v=1510251598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</p>
+<p>We designed this Cactus Garden kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs. <br></p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete THREE felt cacti. </span>We've included the following:<br><span><br><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and embroidery thread</span></span></p>
+<p><span><span></span></span><span></span><span>Finished cacti are approx. 5" high and can be arranged together in a dish of your choosing or set up individually. Check out the rest of our individual cactus kits!</span></p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/7578405574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/7578394182</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/moon-cactus-d-i-y-felt-sewing-kit"/>
+    <title>Moon Cactus Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/MoonCactus2016.sq.jpg?v=1510251709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</span></p>
+<p>We designed this cactus kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs!</p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete a wool felt cactus. </span>We've included the following in this kit:<br><span><span><br><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and cotton embroidery floss</span></span></span></p>
+<p>Finished cactus is approx. 5" high and fits inside of a 3" wide pot <em>(clay pot not included)</em>. Be sure to check out the rest of our individual cactus kits and the cactus garden!</p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/7578394182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/7578385734</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/ball-cactus-d-i-y-felt-sewing-kit"/>
+    <title>Ball Cactus Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/BallCactus2016.sq.jpg?v=1510251767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</p>
+<p>We designed this cactus kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs!</p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete a wool felt cactus. </span><span></span>We've included the following in this kit:</p>
+<p><span><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and embroidery thread</span></span></p>
+<p><span>Finished cactus is approx. 5" high and fits on top of a 3" wide pot <em>(clay pot not included)</em>. Be sure to check out the rest of our individual cactus kits and the cactus garden!</span></p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/7578385734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/7578374278</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/prickly-pear-cactus-d-i-y-felt-sewing-kit"/>
+    <title>Prickly Pear Cactus Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/PearCactus2016.sq.jpg?v=1510251856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</span></p>
+<p>We designed this cactus kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs!</p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete a wool felt cactus. </span>We've included the following in this kit:<br><span><br><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and cotton embroidery floss</span></span></p>
+<p><span>Finished cactus is approx. 5" high and fits snuggly into a 2.5" wide pot <em>(clay pot not included)</em>. Be sure to check out the rest of our individual cactus kits and the cactus garden!</span></p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/7578374278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/2506447875</id>
+    <published>2015-09-09T15:17:00-03:00</published>
+    <updated>2015-09-09T15:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/mini-felt-cactus-kit"/>
+    <title>Mini Cactus Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Mini.Cactus.2016.sq.jpg?v=1510252052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.<br></p>
+<p>We designed this mini cactus kit to be a charming addition to an existing plant display, a unique house-warming or host gift, or perhaps a present for someone with the least of green thumbs!</p>
+<p>The perfect felt houseplant requires no water, thrives under any lighting conditions, and will survive repeated repotting - even from your cat. You don't even have to worry about poking your fingers (unless you use it as a pin cushion).</p>
+<p><span>This boxed kit comes with everything you need to complete a wool felt cactus. </span>We've included the following in this kit:</p>
+<p><span><span>• Step-by-step illustrated instructions</span><br><span>• Paper pattern pieces</span><br><span>• 100% wool felt</span><br><span>• Natural sheep's wool stuffing</span><br><span>• Needle and embroidery thread</span></span></p>
+<p><span><span></span></span><span></span><span></span><span>Finished cactus is approx. 4" high and fits snuggly into a 2.5" wide pot <em>(clay pot not included)</em>. Be sure to check out the rest of our individual cactus kits and the cactus garden!</span></p>
+<p>Happy sewing!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/2506447875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/8314145286</id>
+    <published>2014-09-22T12:29:00-03:00</published>
+    <updated>2014-09-22T12:29:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/animal-key-ring-kits"/>
+    <title>Animal Key Ring Felt Hand Sewing Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/Key.Ring.Kits.SHOPIFY_c8042586-be59-4874-a35e-da0698ad6897.jpg?v=1619804031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Our felt craft kits use a high quality wool felt made in Europe to ensure the best durability of your new friend. All of the production stages of this kit - design, assembly, and packaging - have been lovingly completed by a small staff here in our little shop in Lunenburg, Nova Scotia.</p>
+<p>Designed for the youngest and newest of stitchers, these key ring kits are perfect for making with those who are are 5 years and older. Choose from a fox, owl, or raccoon.</p>
+<p>As with all of our kits, it comes complete with stitch tutorials and instructions, 100% wool felt, paper pattern templates, cotton embroidery floss, sewing needle, and pins.</p>
+<p>Be sure to check out the rest of the kits in our <a href="http://www.lunenburgmakery.ca/collections/made-in-lunenburg" title="Felt sewing kits Lunenburg Makery" target="_blank">collection</a>!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Kit</s:tag>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/8314145286</id>
+      <title>Fox</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/8314145286</id>
+      <title>Owl</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/8314145286</id>
+      <title>Raccoon</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+</feed>

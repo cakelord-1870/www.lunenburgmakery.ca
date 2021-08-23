@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lunenburgmakery.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lunenburgmakery.ca/collections/lets-get-campers-crafting.atom"/>
+  <title>The Lunenburg Makery</title>
+  <updated>2021-04-07T15:00:36-03:00</updated>
+  <author>
+    <name>The Lunenburg Makery</name>
+  </author>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/6562679619632</id>
+    <published>2021-04-07T15:00:36-03:00</published>
+    <updated>2021-04-07T15:00:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/flat-felting-camp-kit"/>
+    <title>Felting Camp Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/colourwithwool.png?v=1617818795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Colour with Wool!</b><br data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><br data-mce-fragment="1"><br data-mce-fragment="1">Craft time (approx.) : 1-2 hours<br data-mce-fragment="1"><br data-mce-fragment="1"></span><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">KIT INCLUDES :<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Step-by-step instructions</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Patterns</span></li>
+<li data-mce-fragment="1">Wool in assorted colours</li>
+<li data-mce-fragment="1">Blended wool felt sheet</li>
+<li data-mce-fragment="1">Felting needles</li>
+<li data-mce-fragment="1">Foam support</li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">$5.00/camper</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Minimum order of 10 kits</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/6562679619632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/6557879042096</id>
+    <published>2021-04-01T10:29:02-03:00</published>
+    <updated>2021-04-01T10:29:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/sewing-camp-kit"/>
+    <title>Hand Sewing Camp Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/campbadge.png?v=1617819086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong data-mce-fragment="1">Camp Badges </strong><br data-mce-fragment="1"><br data-mce-fragment="1">
+<p><span style="font-weight: 400;">Our Camp Badge Kits come with step-by-step illustrated instructions as well as 2 pages of patterns to give you lots of choice (not to mention a blank badge to draw and create your own custom designs!). We’ve also included sewing instructions &amp; techniques to learn (or improve) this skill. </span><span style="font-weight: 400;">Go a step further and sew your camp badges onto camp clothing, bags, or banners!</span></p>
+<p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><i data-mce-fragment="1">Recommended for 8yrs+</i><br><br data-mce-fragment="1">Craft time (approx.): 1 hour</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">KIT INCLUDES:<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Step-by-step instructions</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Patterns</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Assorted colours of blended wool felt sheets</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Sewing needle</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Cotton floss</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Safety pin <br data-mce-fragment="1"></span></li>
+</ul>
+<p data-mce-fragment="1"> Cost: $5.00/camper</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Minimum order: 10 kits</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/6557879042096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lunenburgmakery.ca/products/6557865934896</id>
+    <published>2021-04-01T10:10:32-03:00</published>
+    <updated>2021-04-01T10:10:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lunenburgmakery.ca/products/beginner-camp-kit"/>
+    <title>Beginner Camp Kit</title>
+    <s:type>Craft Kit</s:type>
+    <s:vendor>The Lunenburg Makery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/4093/products/keychain.png?v=1617819050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Lunenburg Makery<br>
+        <strong>Type: </strong>Craft Kit<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Camp T-shirt &amp; Camp Charm Tag Keychains </strong><br><br><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Designed for the youngest campers, these projects can be added to a key ring, then onto a zipper of a backpack or jacket! These crafts are intended to be assembled using hot glue, however glue sticks will do in a pinch. Choose from either a camp charm tag or camp t-shirt template to start, then jazz things up by adding shapes and even marker details!<br><br>Craft time (approx.): 30 minutes<br><br></span></span>
+<p><span>KIT INCLUDES:<br></span></p>
+<ul>
+<li>Step-by-step instructions</li>
+<li><span>Patterns</span></li>
+<li><span><span>Assorted colours of blended wool felt sheets</span></span></li>
+<li><span><span><span>Key ring  </span></span></span></li>
+</ul>
+<p><span><span><span>Cost: $2.50/camper</span></span></span></p>
+<p><span><span><span>Minimum order: 10 kits</span></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.lunenburgmakery.ca/products/6557865934896</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>
